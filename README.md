@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm f1natory</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f1natory&label=Profile%20views&color=0e75b6&style=flat" alt="f1natory" /> </p>
-
-- 🔭 I’m currently working on [Exxed](exxed.cc)
-
 - 📫 How to reach me **wadisu.t.me**
 
 <h3 align="left">Languages and Tools:</h3>
