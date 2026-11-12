@@ -1,6 +1,28 @@
-<h1 align="center">Hi 👋, I'm f1natory</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=f1natory&label=Profile%20views&color=0e75b6&style=flat" alt="f1natory" /> </p>
-- 📫 How to reach me **wadisu.t.me**
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<img src="./banner.png" width="100%" />
+
+<br/><br/>
+
+# f1natory
+
+<p>Developer · Frontend · C++ · Java</p>
+
+<br/>
+
+<a href="https://t.me/wadisu">
+  <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+</a>
+ 
+<img src="https://komarev.com/ghpvc/?username=f1natory&style=flat-square&color=888888&label=Profile%20views" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,java&theme=dark" />
+
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=f1natory&theme=dark&hide_border=true&background=00000000&ring=888888&fire=aaaaaa&currStreakLabel=aaaaaa&hide_longest_streak=true" />
+
+</div>
